@@ -1,4 +1,3 @@
-#!/bin/sh
 git config --global user.name "GBroitman"
 git config --global user.email "gabriel.pinheiro@soulasalle.com.br"
 git add .
